@@ -7,6 +7,7 @@ from datetime import datetime
 from dotenv import load_dotenv
 import praw
 import openai
+import re
 
 # ==========================
 # Load Environment Variables
@@ -124,15 +125,18 @@ def generate_output_file(username, posts, comments, persona_report):
 # ==========================
 # Main Execution
 # ==========================
+
 def main():
-    if len(sys.argv) != 2:
-        print("Usage: python reddit_persona.py <reddit_username>")
-        return
-
-    username = sys.argv[1]
-    logging.info(f"Starting analysis for user: {username}")
-
     try:
+        input_url = input("Enter link to user profile: ").strip()
+        match = re.search(r"reddit\.com/user/([\w-]+)/?", input_url)
+        if not match:
+            print("Invalid Reddit user profile URL format.")
+            return
+
+        username = match.group(1)
+        logging.info(f"Starting analysis for user: {username}")
+
         posts, comments = fetch_user_data(username)
         if not posts and not comments:
             print("No content found for this user.")
@@ -140,8 +144,10 @@ def main():
 
         report = analyze_content_with_groq(posts, comments)
         generate_output_file(username, posts, comments, report)
-        print(f"Persona generated in 'user_persona.txt'.")
+        print(f"Persona generated in '{username}_persona.txt'.")
 
+    except KeyboardInterrupt:
+        print("\nOperation cancelled by user.")
     except Exception as e:
         logging.error(f"Fatal error: {e}")
         print(f"Error: {e}")
