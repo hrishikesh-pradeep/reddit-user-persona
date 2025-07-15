@@ -1,0 +1,53 @@
+[User Persona: Hungry-Move-6603]
+========================================
+
+## Basic Profile
+- Username: Hungry-Move-6603
+- Analysis Date: 2025-07-14T20:15:35.353971 UTC
+- Content Analyzed: 3 posts, 11 comments
+
+**User Persona:**
+
+**Name:** Rohan (pseudonym)
+
+**Big Five Personality Traits:**
+
+* **Extraversion:** 60% (Rohan is moderately outgoing and sociable, as seen in his frequent posting and engagement on various subreddits.)
+	+ Value: "I have hardly seen a car which does not have a sticker on it - everyone is uttar pradesh sarkar, adhiwakta, nyay palika, mahamantri, skoda laura, adrak lsson." (r/lucknow, 2025-07-11T05:12:13)
+* **Agreeableness:** 40% (Rohan tends to be critical and argumentative, as seen in his comments about the obsession with stickers and the quality of food in Lucknow.)
+	+ Value: "Its about the volume/%. The number of cars having these stickers is way too high compared to Delhi, or anywhere else." (r/lucknow, 2025-07-11T08:05:08)
+* **Conscientiousness:** 70% (Rohan appears to be organized and goal-oriented, as seen in his query about productive weekend activities and his interest in healthy, quick meals.)
+	+ Value: "A menu easy to cook/process - healthy and quick." (r/lucknow, 2025-07-11T15:47:19)
+* **Neuroticism:** 50% (Rohan seems to experience moderate levels of anxiety and frustration, as seen in his reactions to the prevalence of stickers and the quality of food in Lucknow.)
+	+ Value: "I started eating power meals at home atleast saves me from crap quality. I even purchased a 250 per meal tiffin and it had palm oil!!!" (r/lucknow, 2025-07-11T04:54:25)
+* **Openness to Experience:** 80% (Rohan appears to be open-minded and curious, as seen in his engagement with various subreddits and his interest in exploring new ideas and perspectives.)
+	+ Value: "Reading Cafe / Reader' Club?" (r/lucknow, 2025-07-14T18:42:33)
+
+**Values:**
+
+* **Authenticity:** 80% (Rohan values genuine interactions and is critical of superficial or fake behavior, as seen in his comments about the stickers and the role of "common guys" in facilitating bribes.)
+	+ Value: "He was not a common man. He was their agent and shield." (r/nagpur, 2025-07-13T19:53:17)
+* **Health and Wellness:** 70% (Rohan prioritizes healthy living, as seen in his interest in quick and easy meals and his criticism of low-quality food options.)
+	+ Value: "A menu easy to cook/process - healthy and quick." (r/lucknow, 2025-07-11T15:47:19)
+* **Fairness and Justice:** 60% (Rohan is concerned about the prevalence of corruption and unfair practices, as seen in his comments about bribes and the role of "common guys" in facilitating them.)
+	+ Value: "Cops keep a civ around to discuss bribes." (r/nagpur, 2025-07-13T19:31:23)
+
+**Interests:**
+
+* **Food and Cooking:** 80% (Rohan is interested in exploring healthy and quick meal options, as seen in his query about easy-to-cook menus.)
+* **Reading and Learning:** 70% (Rohan appears to be interested in reading and engaging with new ideas, as seen in his query about a reading cafe or reader's club.)
+* **Travel and Exploration:** 60% (Rohan has experience living in different cities, including Delhi and Lucknow, and seems to be interested in exploring new places and experiences.)
+
+**Communication Style:**
+
+* **Direct and Assertive:** 80% (Rohan tends to be direct and assertive in his communication, as seen in his comments and queries on various subreddits.)
+* **Humorous and Sarcastic:** 60% (Rohan often uses humor and sarcasm to make points or express frustration, as seen in his comments about the prevalence of stickers and the quality of food in Lucknow.)
+
+**Summary Stats:**
+
+* **Most Active Subreddits:** r/lucknow, r/nagpur, r/IndiaUnfilter, r/indiasocial, r/amiugly
+* **Themes:** Food and Cooking, Reading and Learning, Travel and Exploration, Corruption and Fairness, Health and Wellness
+
+## Disclaimer
+This analysis is based only on publicly available Reddit data.
+It does not store or track personal information and is intended for research or educational use only.

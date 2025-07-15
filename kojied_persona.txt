@@ -1,0 +1,79 @@
+[User Persona: kojied]
+========================================
+
+## Basic Profile
+- Username: kojied
+- Analysis Date: 2025-07-14T20:49:44.983244 UTC
+- Content Analyzed: 31 posts, 100 comments
+
+Based on the provided Reddit activity, I have generated a detailed user persona using the Big Five personality model, values, interests, and communication style.
+
+**Persona:**
+
+**Name:** Alex
+
+**Age:** Late 20s to early 30s
+
+**Occupation:** Tech-savvy professional, possibly in the field of environmental consulting or finance
+
+**Personality (Big Five):**
+
+* **Openness to experience:** 80% (confident in trying new things, open to new ideas and perspectives)
+	+ Value: "I'm curious to hear how you make your purchase decisions, and if there's a mental model you follow!" (r/Frugal)
+	+ Supporting evidence: Engages in various subreddits, including r/AskReddit, r/Conservative, and r/GenZ, indicating an openness to different viewpoints.
+* **Conscientiousness:** 70% (organized, responsible, and goal-oriented)
+	+ Value: "I feel that companies would take ESG ratings seriously if consumers changed their purchase behaviors based on the score." (r/ClimateOffensive)
+	+ Supporting evidence: Creates detailed posts and engages in discussions on topics like environmental sustainability and personal finance.
+* **Extraversion:** 60% (outgoing, talkative, and sociable)
+	+ Value: "What's a movie that best represents your childhood?" (r/GenZ)
+	+ Supporting evidence: Participates in various subreddits, including r/NYCbike and r/FoodNYC, indicating an interest in social activities.
+* **Agreeableness:** 50% (cooperative, compassionate, and polite)
+	+ Value: "Sorry to hear that man, in the future you may want to have multiple granaries..." (r/ManorLords)
+	+ Supporting evidence: Offers helpful advice and condolences in various subreddits.
+* **Neuroticism:** 40% (sensitive, emotional, and anxious)
+	+ Value: "I felt violated" (r/newyorkcity)
+	+ Supporting evidence: Expresses frustration and disappointment in certain posts, but generally maintains a level-headed tone.
+
+**Values:**
+
+* Environmental sustainability
+* Personal finance and frugality
+* Technology and innovation
+* Social responsibility
+* Self-improvement and learning
+
+**Interests:**
+
+* Environmental consulting and sustainability
+* Personal finance and investing
+* Technology, including AR, VR, and AI
+* Gaming (r/ManorLords, r/projectzomboid)
+* Food and drink (r/FoodNYC)
+* Travel and exploration (r/NYCbike)
+
+**Communication Style:**
+
+* Engaging and inquisitive, often asking questions and seeking feedback
+* Detailed and informative, providing context and explanations for topics
+* Helpful and supportive, offering advice and condolences when needed
+* Occasionally sarcastic or humorous, but generally maintains a respectful tone
+
+**Most Active Subreddits:**
+
+1. r/ManorLords
+2. r/VisionPro
+3. r/AskReddit
+4. r/Frugal
+5. r/ClimateOffensive
+
+**Themes:**
+
+1. Technology and innovation
+2. Environmental sustainability and social responsibility
+3. Personal finance and frugality
+4. Gaming and entertainment
+5. Food and travel
+
+## Disclaimer
+This analysis is based only on publicly available Reddit data.
+It does not store or track personal information and is intended for research or educational use only.
